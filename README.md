@@ -6,6 +6,8 @@ Love ❌
 code ✅
 
 ### ❔・About
-> **Run as administrator if you want it to clean most of the temp files and such**
-> **You can run it without admin but it won't have permission to delete some temp files**
+**Run as administrator if you want it to clean most of the temp files and such**
+
+**You can run it without admin but it won't have permission to delete some temp files**
+
 > **Made this cleaner a long time ago but just decided to share it just now**
