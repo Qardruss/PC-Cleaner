@@ -1,4 +1,6 @@
 @echo off
+echo Welcome to Pc Cleaner
+echo Cleaning temporary files
 color 0C
 del /s /f /q %SYSTEMDRIVE%\windows\temp\*.*
 rd /s /q %SYSTEMDRIVE%\windows\temp
@@ -13,5 +15,6 @@ del /q /f /s %WINDIR%\Prefetch\*.*
 del /q /f /s %SYSTEMDRIVE%\*.log
 del /q /f /s %SYSTEMDRIVE%\*.bak
 del /q /f /s %SYSTEMDRIVE%\*.gid
-cls
+echo Done cleaning temporary files
 pause
+cls
