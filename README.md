@@ -1,5 +1,5 @@
-<img src="https://img.shields.io/github/watchers/Rdimo/Hazard-Token-Grabber?color=007bdb&label=Watchers" alt="shield.png"></a>
-<img src="https://img.shields.io/github/stars/Rdimo/Hazard-Token-Grabber?color=007bdb&label=Stars" alt="shield.png"></a>
+<img src="https://img.shields.io/github/watchers/Rdimo/PC-Cleaner?color=007bdb&label=Watchers" alt="shield.png"></a>
+<img src="https://img.shields.io/github/stars/Rdimo/PC-Cleaner?color=007bdb&label=Stars" alt="shield.png"></a>
 
 #### Pc Cleaner was made by
 Love ❌
